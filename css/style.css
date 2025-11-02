@@ -1,0 +1,74 @@
+*{
+    
+    margin: 0%;
+}
+html{
+    scroll-behavior: smooth;
+    background-image: radial-gradient(white ,rgb(34, 186, 26),gold,rgb(255, 119, 0));
+}
+.leel{
+
+    border: 10px groove rgb(195, 66, 210);
+    background-image:linear-gradient(rgb(233, 69, 69),rgb(67, 255, 67),rgb(64, 120, 224));
+    text-align: center;
+    color: rgb(89, 0, 191);
+    border-radius: 20px;
+   font-size:30px;
+    margin-top:20px;
+}
+.shan{
+    border: 2px solid rgb(255, 9, 120);
+    color: rgb(0, 0, 0);
+    background-image:linear-gradient(rgb(168, 62, 161),rgb(248, 26, 26));
+    width: 100%;
+    position:sticky;
+    height: 4rem;
+    text-align: center;
+    bottom: 0%;
+   
+}
+.tin{
+    font-size: 2rem;
+    margin-top: 10px;
+    font-weight: 800;
+    text-align: center;
+}
+ .daku{
+    display:flex;
+    flex-flow:row;
+    gap:25px;
+    padding:25px;
+    justify-content: center;
+    font-size: 2rem;
+    text-align:center;
+    border: 6px groove rgb(57, 235, 44);
+
+}
+
+.sen{
+    font-size: 50px;
+    
+    color: rgb(17, 0, 255);
+    
+}
+img{
+    border: 7px solid rgb(255, 21, 0);
+    border-radius: 100%;
+}
+a:hover{
+    color: rgb(255, 0, 0);
+}
+.vnky{
+    border: 0.5rem solid rgb(255, 0, 179);
+    
+}
+.vnky:hover{
+background-image: url(../images.css/seenu\ bhai.jpg );
+
+    background-repeat: no-repeat;
+    background-position-x:50%;
+   background-position-y:50%;
+    transition-duration:3s;
+    transition-delay:0s;
+
+}
